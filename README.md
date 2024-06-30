@@ -40,7 +40,7 @@ Gantilah your seed phrase 1, your seed phrase 2, your private key 1, your privat
 Jalankan script untuk memulai pengiriman transaksi otomatis:
 
 ```
-node index.js
+node auto_tx.js
 ```
 Script ini akan mengirim sejumlah kecil SOL (Solana) ke beberapa alamat acak yang dibuat.
 
