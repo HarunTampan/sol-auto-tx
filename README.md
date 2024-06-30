@@ -49,10 +49,6 @@ Pastikan saldo SOL mencukupi di akun yang digunakan untuk pengiriman.
 Sesuaikan `DEVNET_URL` di `index.js` dengan URL jaringan Solana yang Anda inginkan.
 
 # Kontak
-Harun Tampan - harun
-
-Proyek GitHub - https://github.com/username/sol-auto-tx
-
-
-Pastikan Anda memiliki saldo SOL yang cukup di akun yang digunakan untuk pengiriman.
-Sesuaikan DEVNET_URL di index.js dengan URL jaringan Solana yang Anda inginkan.
+- [Email](dkipas08@gmail.com)
+- [Twitter](https://x.com/AirdropIdn25)
+- [Telegram](https://t.me/FxcTe)
