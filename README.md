@@ -52,7 +52,3 @@ Sesuaikan `DEVNET_URL` di `index.js` dengan URL jaringan Solana yang Anda ingink
 - [Email](dkipas08@gmail.com)
 - [Twitter](https://x.com/AirdropIdn25)
 - [Telegram](https://t.me/FxcTe)
-
-
-![GitHub followers](https://img.shields.io/github/followers/HarunTampan?style=social)
-![GitHub stars](https://img.shields.io/github/stars/HarunTampan?style=social)
