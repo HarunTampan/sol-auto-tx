@@ -1,4 +1,4 @@
-Solana Auto Transaction Script
+- Solana Auto Transaction Script
 Script ini menggunakan Node.js untuk mengirim transaksi otomatis di jaringan Solana (Solana Devnet).
 
 Persiapan Awal
