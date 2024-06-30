@@ -1,11 +1,11 @@
 # Solana Auto Transaction Script
 Script ini menggunakan Node.js untuk mengirim transaksi otomatis di jaringan Solana (Solana Devnet).
 
-Persiapan Awal
+# Persiapan Awal
 Pastikan Anda sudah memiliki Node.js terinstal di komputer Anda. Jika belum, Anda dapat mengunduhnya dari nodejs.org.
 
-Langkah-langkah untuk Menjalankan Script:
-Clone Repositori:
+# Langkah-langkah untuk Menjalankan Script
+- 1. Clone Repositori:
 
 Clone repositori ini ke komputer Anda dengan menjalankan perintah berikut di terminal:
 
