@@ -5,15 +5,14 @@ Script ini menggunakan Node.js untuk mengirim transaksi otomatis di jaringan Sol
 Pastikan Anda sudah memiliki Node.js terinstal di komputer Anda. Jika belum, Anda dapat mengunduhnya dari nodejs.org.
 
 # Langkah-langkah untuk Menjalankan Script
-- 1. Clone Repositori:
+1. Clone Repositori:
 
 Clone repositori ini ke komputer Anda dengan menjalankan perintah berikut di terminal:
 
-bash
-Copy code
-git clone git@github.com:username/sol-auto-tx.git
-cd sol-auto-tx
-Instal Dependensi:
+```git clone git@github.com:username/sol-auto-tx.git
+cd sol-auto-tx```
+
+2. Instal Dependensi:
 
 Instal dependensi yang dibutuhkan dengan perintah:
 
