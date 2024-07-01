@@ -10,7 +10,7 @@ Pastikan Anda sudah memiliki Node.js terinstal di komputer Anda. Jika belum, And
 Clone repositori ini ke komputer Anda dengan menjalankan perintah berikut di terminal:
 
 ```
-git clone git@github.com:username/sol-auto-tx.git
+git clone https://github.com/HarunTampan/sol-auto-tx.git
 cd sol-auto-tx
 ```
 
