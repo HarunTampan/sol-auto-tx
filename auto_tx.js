@@ -86,7 +86,7 @@ const {
     const randomAddresses = generateRandomAddresses(keypairs.length * 100);
     console.log(`Generated ${keypairs.length * 100} random addresses:`, randomAddresses);
   
-    const amountToSend = 0.001; // minimum 0.001 SOL
+    const amountToSend = 0.0001; // minimum 0.001 SOL
     let currentKeypairIndex = 0;
     const delayBetweenRequests = 5000; // replace if the network is congested
   
