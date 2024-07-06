@@ -46,7 +46,7 @@ Script ini akan mengirim sejumlah kecil SOL (Solana) ke beberapa alamat acak yan
 
 Catatan Penting:
 Pastikan saldo SOL mencukupi di akun yang digunakan untuk pengiriman.
-Sesuaikan `DEVNET_URL` di `index.js` dengan URL jaringan Solana yang Anda inginkan.
+Sesuaikan `DEVNET_URL` di `auto_tx.js` dengan URL jaringan Solana yang Anda inginkan.
 
 # Kontak
 - [Email](dkipas08@gmail.com)
